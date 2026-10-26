@@ -11,3 +11,4 @@ Added new script 9-firstdirdeletion
 Added new script 10-back
 Added new script 11-lists
 Added new script 12-file_type
+Added new script 13-symbolic_link

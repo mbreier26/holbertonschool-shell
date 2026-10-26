@@ -4,3 +4,4 @@ Added new script 2-Bring_me_home
 Added new script 3-listfiles
 Added new script 4-listmorefiles
 Added new script 5-Listfilesdigitonly
+Added new script 6-firstdirectory

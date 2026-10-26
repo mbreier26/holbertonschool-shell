@@ -6,3 +6,4 @@ Added new script 4-listmorefiles
 Added new script 5-Listfilesdigitonly
 Added new script 6-firstdirectory
 Added new script 7-movethatfile
+Added new script 8-firstdelete

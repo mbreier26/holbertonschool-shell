@@ -10,3 +10,4 @@ Added new script 8-firstdelete
 Added new script 9-firstdirdeletion
 Added new script 10-back
 Added new script 11-lists
+Added new script 12-file_type

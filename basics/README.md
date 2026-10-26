@@ -14,3 +14,4 @@ Added new script 12-file_type
 Added new script 13-symbolic_link
 Added new script 14-copy_html
 Added new script 15-lets_move
+Added new script 16-clean_emacs

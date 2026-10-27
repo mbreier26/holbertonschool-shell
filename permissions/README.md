@@ -5,3 +5,4 @@ added 2-groups script
 added 3-new_owner script
 added 4-empty script
 added 5-execute script
+added 6-multiple_permissions script

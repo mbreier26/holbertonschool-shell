@@ -12,3 +12,4 @@ added 9-John_Doe script
 added 10-mirror_permissions script
 added 11-directories_permissions script
 added 12-directory_permissions script
+added 13-change_group

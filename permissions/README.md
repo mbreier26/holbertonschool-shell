@@ -8,3 +8,4 @@ added 5-execute script
 added 6-multiple_permissions script
 added 7-everybody script
 added 8-James_Bond script
+added 9-John_Doe script

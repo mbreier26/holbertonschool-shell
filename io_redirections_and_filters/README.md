@@ -5,3 +5,4 @@ added 2-hellofile script
 added 3-twofiles script
 added 4-lastlines script
 added 5-firstlines script
+added 6-third_line script

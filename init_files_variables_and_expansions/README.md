@@ -6,3 +6,4 @@ added 3-paths script
 added 4-global_variables script
 added 5-local_variables script
 added 6-create_local_variable script
+added 7-create_global_variable script

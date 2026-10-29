@@ -13,3 +13,4 @@ added 10-no_more_js script
 added 11-directories script
 added 12-newest_files script
 added 13-unique script
+added 14-findthatword

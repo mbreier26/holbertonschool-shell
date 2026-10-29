@@ -8,3 +8,4 @@ added 5-local_variables script
 added 6-create_local_variable script
 added 7-create_global_variable script
 added 8-true_knowledge script
+added 9-divide_and_rule script

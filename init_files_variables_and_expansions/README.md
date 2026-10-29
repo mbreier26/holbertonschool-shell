@@ -2,3 +2,4 @@
 added 0-alias script
 added 1-hello_you script
 added 2-path script
+added 3-paths script

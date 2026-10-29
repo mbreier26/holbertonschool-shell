@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "cat scan" | tr 'ac' 'ze'
+echo | tr 'ac' 'ze'

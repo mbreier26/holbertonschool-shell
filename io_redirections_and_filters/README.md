@@ -17,5 +17,6 @@ added 14-findthatword
 added 15-countthatword
 added 16-whatsnext
 added 17-hidethisword script
-added 18-letteronly
-added 19-AZ
+added 18-letteronly script
+added 19-AZ script
+added 20-hiago script

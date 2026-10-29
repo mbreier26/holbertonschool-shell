@@ -18,3 +18,4 @@ added 15-countthatword
 added 16-whatsnext
 added 17-hidethisword script
 added 18-letteronly
+added 19-AZ

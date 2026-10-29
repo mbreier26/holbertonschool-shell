@@ -11,3 +11,4 @@ added 8-cwd_state script
 added 9-duplicate_last_line script
 added 10-no_more_js script
 added 11-directories script
+added 12-newest_files

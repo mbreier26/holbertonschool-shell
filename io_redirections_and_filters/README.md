@@ -9,3 +9,4 @@ added 6-third_line script
 added 7-file script
 added 8-cwd_state script
 added 9-duplicate_last_line
+added 10-no_more_js
